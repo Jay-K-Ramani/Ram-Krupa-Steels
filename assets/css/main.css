@@ -1142,7 +1142,7 @@ section,
 --------------------------------------------------------------*/
 .services .service-item {
   background-color: var(--contrast-color);
-  padding: 50px 30px;
+ 
   transition: all 0.3s ease-in-out;
   height: 100%;
   position: relative;

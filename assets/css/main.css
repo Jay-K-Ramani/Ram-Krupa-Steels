@@ -1238,6 +1238,7 @@ section,
 # Contact Section
 --------------------------------------------------------------*/
 .contact .info-wrap {
+ top:0px;
   margin-bottom: 30px;
 }
 

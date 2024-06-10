@@ -876,7 +876,7 @@ section,
   box-shadow: 0px 0 20px color-mix(in srgb, var(--default-color), transparent 90%);
   box-sizing: content-box;
   padding: 01px;
-  margin: 01px 01px;
+  margin: 10px 10px;
   min-height: 320px;
   display: flex;
   flex-direction: column;

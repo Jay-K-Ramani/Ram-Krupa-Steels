@@ -1373,6 +1373,10 @@ section,
     transform: rotate(360deg);
   }
 }
+.ser{
+  border: none; 
+  border-top: 1px solid #27a776;
+}
 
 /*--------------------------------------------------------------
 # Starter Section Section

@@ -690,11 +690,12 @@ section,
 
 .section-title p::after {
   content: "";
-  width: 620px;
+  width: auto;
   height: 1px;
   display: block;
   background: var(--accent-color);
   margin: 4px 10px;
+  text-align:center;
 }
 
 .section-title p {

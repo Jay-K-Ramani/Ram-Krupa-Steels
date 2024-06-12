@@ -690,7 +690,7 @@ section,
 
 .section-title p::after {
   content: "";
-  width: 820px;
+  width: 620px;
   height: 1px;
   display: block;
   background: var(--accent-color);

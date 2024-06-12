@@ -872,6 +872,16 @@ section,
   line-height: 0;
 }
 
+.section-titleab h2::after {
+  content: "";
+  width: auto;
+  height: 1px;
+  display: block;
+  background: var(--accent-color);
+  margin: 4px 10px;
+  text-align:center;
+}
+
 /*--------------------------------------------------------------
 # Testimonials Section
 --------------------------------------------------------------*/

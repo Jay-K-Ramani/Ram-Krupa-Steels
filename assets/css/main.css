@@ -698,16 +698,7 @@ section,
   margin: 4px 10px;
   text-align:center;
 }
-.section-title h2.a::after {
-  content: "";
-  width: auto;
-  height: 1px;
-  display: block;
-  background: var(--accent-color);
-  margin: 4px 10px;
-  text-align:center;
-  margin-top:15px;
-}
+
 
 .section-title p {
   color: var(--heading-color);
